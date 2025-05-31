@@ -1,7 +1,7 @@
 ### Good Morning Good Evening and Goodnight!!! 👋
 
 Born in St. Louis Missouri
-Currently working on my Masters in Applied Computer Science Class of '24 & '25 🐾🐾
+Master's in Applied Computer Science Class of '24 & '25 🐾🐾
 Giant Car Nerd when not staring at Computer Screens 🏎️💨💨
 <!--
 **djgamekid/djgamekid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
